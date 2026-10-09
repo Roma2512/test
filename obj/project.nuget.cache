@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLwmItdLAzo=",
+  "success": true,
+  "projectFilePath": "/home/roma/projects/testDotNet/testDotNet.csproj",
+  "expectedPackageFiles": [
+    "/home/roma/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "/home/roma/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0/microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "/home/roma/.nuget/packages/npgsql/10.0.3/npgsql.10.0.3.nupkg.sha512",
+    "/home/roma/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
